@@ -741,3 +741,15 @@ button:focus {
 .fork-btn-inner::after {
   display: none !important;
 }
+
+.tech-text {
+  font-weight: 700;
+  font-size: 1.5em; 
+  text-align: center;
+  margin-top: 10px;
+  color: white; 
+}
+
+.tech-text:hover {
+  color: #007bff !important; 
+}
