@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Ayush Dubey </span>
             from <span className="purple"> Mumbai, India.</span>
             <br />
-            I am currently employed as a software developer at Capgemini.
+            I am currently employed as a Software Developer at Capgemini.
             <br />
             I have completed Computer Engineering from Mumbai University
             <br />
